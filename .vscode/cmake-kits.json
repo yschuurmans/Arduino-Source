@@ -1,0 +1,31 @@
+[
+    {
+        "name": "Visual Studio Community 2022 Release - amd64",
+        "visualStudio": "VisualStudio.16.0",
+        "visualStudioArchitecture": "amd64",
+        "preferredGenerator": {
+            "name": "Ninja"
+        },
+        "environmentVariables": {
+            "CMAKE_PREFIX_PATH": "C:/Qt/6.8.3/msvc2022_64/lib/cmake"
+        }
+    },
+    {
+        "name": "MSVC 2022 x64 with Qt6",
+        "compilers": {
+            "C": "C:/Program Files/Microsoft Visual Studio/2022/Enterprise/VC/Tools/MSVC/14.44.35207/bin/Hostx64/x64/cl.exe",
+            "CXX": "C:/Program Files/Microsoft Visual Studio/2022/Enterprise/VC/Tools/MSVC/14.44.35207/bin/Hostx64/x64/cl.exe"
+        },
+        "preferredGenerator": {
+            "name": "Ninja"
+        },
+        "environmentVariables": {
+            "CMAKE_PREFIX_PATH": "C:/Qt/6.8.3/msvc2022_64/lib/cmake",
+            "VCINSTALLDIR": "C:/Program Files/Microsoft Visual Studio/2022/Enterprise/VC/",
+            "WindowsSdkDir": "C:/Program Files (x86)/Windows Kits/10/",
+            "INCLUDE": "C:/Program Files/Microsoft Visual Studio/2022/Enterprise/VC/Tools/MSVC/14.44.35207/include;C:/Program Files (x86)/Windows Kits/10/Include/10.0.22621.0/ucrt;C:/Program Files (x86)/Windows Kits/10/Include/10.0.22621.0/um;C:/Program Files (x86)/Windows Kits/10/Include/10.0.22621.0/shared;C:/Program Files (x86)/Windows Kits/10/Include/10.0.22621.0/winrt",
+            "LIB": "C:/Program Files/Microsoft Visual Studio/2022/Enterprise/VC/Tools/MSVC/14.44.35207/lib/x64;C:/Program Files (x86)/Windows Kits/10/Lib/10.0.22621.0/ucrt/x64;C:/Program Files (x86)/Windows Kits/10/Lib/10.0.22621.0/um/x64",
+            "PATH": "C:/Program Files/Microsoft Visual Studio/2022/Enterprise/VC/Tools/MSVC/14.44.35207/bin/Hostx64/x64;C:/Program Files (x86)/Windows Kits/10/bin/10.0.22621.0/x64;C:/Program Files/Microsoft Visual Studio/2022/Enterprise/Common7/IDE/CommonExtensions/Microsoft/TestWindow;C:/Program Files/Microsoft Visual Studio/2022/Enterprise/MSBuild/Current/bin/Roslyn;C:/Program Files/Microsoft Visual Studio/2022/Enterprise/Team Tools/Performance Tools/x64;C:/Program Files/Microsoft Visual Studio/2022/Enterprise/Team Tools/Performance Tools;C:/Program Files (x86)/Microsoft Visual Studio/Shared/14.0/TestWindow;C:/Program Files (x86)/MSBuild/14.0/bin/amd64;C:/Windows/Microsoft.NET/Framework64/v4.0.30319;C:/Program Files/Microsoft Visual Studio/2022/Enterprise/Common7/IDE/;C:/Program Files/Microsoft Visual Studio/2022/Enterprise/Common7/Tools/;C:/Windows/system32;C:/Windows;C:/Windows/System32/Wbem;C:/Windows/System32/WindowsPowerShell/v1.0/"
+        }
+    }
+]
