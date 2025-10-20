@@ -1553,6 +1553,8 @@ file(GLOB LIBRARY_SOURCES
     Source/PokemonLZA/Programs/PokemonLZA_RestaurantFarmer.h
     Source/PokemonLZA/Programs/TestPrograms/PokemonLZA_OverworldWatcher.cpp
     Source/PokemonLZA/Programs/TestPrograms/PokemonLZA_OverworldWatcher.h
+    Source/PokemonLZA/Programs/TestPrograms/PokemonLZA_YouriTest.cpp
+    Source/PokemonLZA/Programs/TestPrograms/PokemonLZA_YouriTest.h
     Source/PokemonRSE/Inference/Dialogs/PokemonRSE_DialogDetector.cpp
     Source/PokemonRSE/Inference/Dialogs/PokemonRSE_DialogDetector.h
     Source/PokemonRSE/Inference/PokemonRSE_ShinyNumberDetector.cpp
